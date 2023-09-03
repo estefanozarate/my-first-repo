@@ -4,5 +4,5 @@
 int main(){
    std::cout << "My second commit!" << std::endl;
    std::cout << "Hello world!" << std::endl;
-   return 0;
+   return EXIT_SUCCESS;
 }
